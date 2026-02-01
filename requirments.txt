@@ -1,3 +1,5 @@
 sphinx
 sphinx-autobuild
-invoke 
+sphinx_rtd_theme
+
+invoke
