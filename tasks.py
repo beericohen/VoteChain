@@ -14,3 +14,8 @@ c : invoke.Context
 @task
 def build(c):
     c.run("sphinx-autobuild source/ build/")
+
+@task
+def run(c):
+    """Runs the Streamlit application."""
+    c.run("streamlit run app.py")
