@@ -1,20 +1,16 @@
-.. VoteChain documentation master file, created by
-   sphinx-quickstart on Sun Feb  1 07:00:20 2026.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Welcome to My Project
+=====================
 
-VoteChain documentation
-=======================
-
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
-
-.. toctree:: temp
-   :members:
+This is a basic documentation site created with Sphinx. 
+It follows a structured approach to technical writing.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   setup
+   exp
+
+   
+
 
